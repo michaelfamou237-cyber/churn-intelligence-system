@@ -7,16 +7,13 @@ notebooks/z_Eda.ipynb
 __pycache__/
 *.pyc
 
-
 # fichier jupyter de sauvegarde automatiques
 
 .ipynb_checkpoints/
 
-
 # fichier environnements virtuels
 .venv/
 .env/
-
 
 # fichier OS 
 .DS_Store
