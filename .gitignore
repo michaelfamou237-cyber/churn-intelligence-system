@@ -13,9 +13,6 @@ __pycache__/
 .ipynb_checkpoints/
 
 
-# data/
-data/*.csv
-
 # fichier environnements virtuels
 .venv/
 .env/
