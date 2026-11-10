@@ -1,0 +1,39 @@
+
+# brouillon
+notebooks/z_Eda.ipynb
+
+
+# cache python
+__pycache__/
+*.pyc
+
+
+# fichier jupyter de sauvegarde automatiques
+
+.ipynb_checkpoints/
+
+
+# data/
+data/*.csv
+
+# fichier environnements virtuels
+.venv/
+.env/
+
+
+# fichier OS 
+.DS_Store
+Thumbs.db 
+
+# Models
+*.pkl
+*.joblib
+*.json
+
+
+#IDE
+.vscode/
+.idea/
+
+
+

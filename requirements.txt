@@ -1,0 +1,25 @@
+
+# Manipulation de données
+pandas
+numpy
+
+# Machine Learning & Statistiques
+scikit-learn
+scipy
+statsmodels
+
+# Modèles avancés (utilisés dans le benchmark)
+xgboost
+lightgbm
+catboost
+
+# Visualisation
+matplotlib
+seaborn
+
+# Interprétabilité
+shap
+
+# Application Web
+streamlit
+joblib
