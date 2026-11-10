@@ -1,11 +1,15 @@
-Churn Intelligence System
+### Churn Intelligence System
 Système d'aide à la décision pour la prévention du départ des clients (Churn).
 
 Ce projet est une démonstration complète d'un pipeline de Data Science de bout en bout, allant de la compréhension métier à la mise en production d'une application interactive (Streamlit).
 
-Il a été conçu avec une approche rigoriste : séparation des responsabilités (code modulaire), prévention du Data Leakage, validation statistique stricte, et priorisation des métriques métier sur les métriques purement mathématiques.
+Il a été conçu avec une approche rigoriste notamment par la séparation des responsabilités (code modulaire), la prévention du Data Leakage, la validation statistique stricte, et la priorisation des métriques métier sur les métriques purement mathématiques.
 
-1. Contexte & Enjeux Métier
+<img width="1280" height="720" alt="1_Accueil_page1" src="https://github.com/user-attachments/assets/5c5b4cfb-d454-48e5-b4bf-8155d43c78af" />
+
+
+
+### 1. Contexte & Enjeux Métier
 Dans le secteur des télécommunications (et plus largement dans les services par abonnement), le départ d'un client (Churn) représente une perte de revenus directe.
 
 Le problème : Un client qui part coûte nettement plus cher qu'un client qui reste (coût d'acquisition vs coût de rétention).
