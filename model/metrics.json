@@ -1,0 +1,11 @@
+{
+    "threshold_used": 0.4,
+    "TP": 322,
+    "TN": 654,
+    "FP": 381,
+    "FN": 52,
+    "Recall": 0.861,
+    "Precision": 0.458,
+    "F1_Score": 0.598,
+    "ROC_AUC": 0.837
+}
