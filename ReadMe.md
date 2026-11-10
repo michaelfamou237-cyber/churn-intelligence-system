@@ -82,7 +82,8 @@ Nous acceptons d'augmenter les Faux Positifs (de 298 à 381) pour faire chuter l
 
 ### 6. Interprétabilité (SHAP)
 Le modèle est totalement "boîte blanche" grâce à l'intégration de SHAP (SHapley Additive exPlanations).
-Le n<img width="1280" height="720" alt="info3_remplir_prediction" src="https://github.com/user-attachments/assets/b2865343-027b-4f02-b8fc-8b54a3eb3630" />
-iveau Global (Beeswarm) confirme que tenure, Contract_Two year (protecteur) et MonthlyCharges sont les moteurs principaux du modèle.
+Le n<img width="1280" height="720" alt="info3_remplir_prediction" src="https://github.com/user-attachments/assets/b2865343-027b-4f02-b8fc-8b54a3eb3630" /
+
+le niveau Global (Beeswarm) confirme que tenure, Contract_Two year (protecteur) et MonthlyCharges sont les moteurs principaux du modèle.
 le niveau Individuel (Waterfall) : Intégré dans l'application Streamlit. Pour chaque client, l'application affiche exactement quelles variables ont poussé le score vers le haut (risque) ou vers le bas (protection), permettant au conseiller d'adapter son discours.
 
