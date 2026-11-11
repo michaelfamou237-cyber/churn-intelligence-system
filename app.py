@@ -26,7 +26,7 @@ st.set_page_config(
 # ROOT pointe vers le dossier principal (09_Churn)
 # __file__ est app/app.py, donc parent.parent remonte à 09_Churn
 # ROOT pointe vers le dossier principal
-ROOT = Path(__file__).resolve().parent.parent
+ROOT = Path(__file__).resolve().parent
 DATA_PATH = ROOT / "data" / "Telco-Customer-Churn.csv"
 MODEL_PATH = ROOT / "model" / "logistic_regression_model.pkl"
 CONFIG_PATH = ROOT / "model" / "business_config.json"
