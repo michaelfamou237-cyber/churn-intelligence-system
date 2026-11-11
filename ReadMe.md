@@ -5,6 +5,8 @@ Ce projet est une démonstration complète d'un pipeline de Data Science de bout
 
 Il a été conçu avec une approche rigoriste notamment par la séparation des responsabilités (code modulaire), la prévention du Data Leakage, la validation statistique stricte, et la priorisation des métriques métier sur les métriques purement mathématiques.
 
+lien pour consulter et tester une prediction: https://churn-intelligence-system-btuinbskjha6b5dltei58k.streamlit.app/
+
 <img width="1280" height="720" alt="1_Accueil_page1" src="https://github.com/user-attachments/assets/5c5b4cfb-d454-48e5-b4bf-8155d43c78af" />
 
 <img width="1280" height="720" alt="2_Contexte_KPI_1" src="https://github.com/user-attachments/assets/11bf3b97-5ff6-4e2e-bfed-47e0430467e4" />
